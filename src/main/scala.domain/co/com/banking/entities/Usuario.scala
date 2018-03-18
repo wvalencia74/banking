@@ -1,4 +1,4 @@
-package domain.usuario
+package co.com.banking.entities
 
 case class Usuario (
    nombre:String,
