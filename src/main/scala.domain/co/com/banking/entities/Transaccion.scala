@@ -1,3 +1,8 @@
 package co.com.banking.entities
 
-class Transaccion()
+case class Transaccion(
+
+                      tipoDeTransaccion: String
+
+
+                      )
