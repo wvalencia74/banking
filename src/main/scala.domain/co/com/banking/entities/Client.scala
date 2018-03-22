@@ -1,7 +1,6 @@
 package co.com.banking.entities
 
 case class Client(
-
   idType: String,
   identificationNumber: Int,
   name:String,
@@ -11,6 +10,5 @@ case class Client(
   email: String,
   address: String,
   stratum: Int
-
-                   )
+)
 

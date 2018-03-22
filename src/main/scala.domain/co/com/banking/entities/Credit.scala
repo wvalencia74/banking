@@ -12,8 +12,7 @@ case class Credit(
   delinquentBalance: Double,
   numberOfInstallmentsInArrears: Int,
   interestForMonthlyDelinquency: Double
-
-                   )
+)
 
 
 
